@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class TestA : MonoBehaviour {
+public class TestB : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -12,5 +12,4 @@ public class TestA : MonoBehaviour {
 	void Update () {
 	
 	}
-	//THIS IS FROM A
 }
